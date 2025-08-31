@@ -61,9 +61,19 @@ img:hover {
     h1{
         display: block;
     }
+    
 
     img {
         height: 10vh;
         margin: 2vw;
     }
+
+    .score {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: large;
+}
+
+
 }
